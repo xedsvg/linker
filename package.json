@@ -9,6 +9,6 @@
   "author": "xed",
   "license": "MIT",
   "dependencies": {
-    "set-value": "4.0.1"
+    "set-value": "4.1.0"
   }
 }
